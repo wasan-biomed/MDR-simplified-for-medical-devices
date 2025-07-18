@@ -120,6 +120,20 @@ All must comply with MDR Articles 11–16.
 - **ISO 10993** – Biocompatibility (patient circuit)
 
 ---
+## Anesthesia Machine Device
+
+![Anesthesia Machine - Front View](assets/images/anesthesia_machine/anesthesia_machine_front_view.jpg)
+*Figure 1: Front view of the anesthesia machine with vaporizer and flowmeters.*
+
+![Anesthesia Machine - Side Panel](assets/images/anesthesia_machine/anesthesia_machine_side_panel.jpg)
+*Figure 2: Side panel showing pressure gauges and control knobs.*
+
+![Anesthesia Machine - With Monitor](assets/images/anesthesia_machine/anesthesia_machine_with_monitor.jpg)
+*Figure 3: Integrated monitor screen displaying ventilation waveforms.*
+
+![Anesthesia Machine - Wheels & Controls](assets/images/anesthesia_machine/anesthesia_machine_wheels_and_controls.jpg)
+*Figure 4: Mobile anesthesia machine with wheelbase and control interfaces.*
+
 
 ##  Summary
 
