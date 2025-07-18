@@ -4,7 +4,7 @@ This repository explains the **European Medical Device Regulation (MDR)** in a *
 
 ---
 
-## 📌 What is MDR?
+##  What is MDR?
 
 MDR (Medical Device Regulation – EU 2017/745) is the **European law that controls the safety, quality, and performance of medical devices** before and after they are sold in the EU.
 
@@ -12,7 +12,7 @@ If you want to market a device like a **blood pressure monitor**, **ECG**, or **
 
 ---
 
-## 🔍 Key MDR Requirements (Overview)
+##  Key MDR Requirements (Overview)
 
 1. **Device classification** (Class I, IIa, IIb, III)
 2. **Technical documentation** (design, materials, safety)
@@ -23,7 +23,7 @@ If you want to market a device like a **blood pressure monitor**, **ECG**, or **
 
 ---
 
-## ✅ Example: Blood Pressure Monitor
+##  Example: Blood Pressure Monitor
 
 To sell a digital or manual BP monitor in the EU:
 
@@ -33,11 +33,11 @@ To sell a digital or manual BP monitor in the EU:
 - **Label** the device properly (with CE mark, UDI)
 - **Monitor** the device for post-market incidents
 
-➡️ [See full example here →](examples/blood-pressure-monitor.md)
+➡ [See full example here →](examples/blood-pressure-monitor.md)
 
 ---
 
-## 📂 Planned Device Examples
+## Planned Device Examples
 
 | Device | Status |
 |--------|--------|
@@ -48,11 +48,10 @@ To sell a digital or manual BP monitor in the EU:
 | Thermometer | 🔜 Coming Soon |
 | Ventilator | 🔜 Coming Soon |
 
-You can contribute or suggest other devices you'd like to see.
 
 ---
 
-## 🧠 Who is this for?
+##  Who is this for?
 
 - Biomedical engineers
 - Medical device developers
@@ -63,7 +62,7 @@ This guide is **not legal advice**, but an **educational resource** based on off
 
 ---
 
-## 📘 References
+##  References
 
 - [EU MDR Regulation (full text)](https://eur-lex.europa.eu/eli/reg/2017/745/oj)
 - [European Commission Medical Devices](https://health.ec.europa.eu/medical-devices-sector/new-regulations_en)
@@ -75,13 +74,14 @@ This guide is **not legal advice**, but an **educational resource** based on off
 
 **Wasan Qusay Hasan**  
 Biomedical Engineer | MDR Learner | Project Author  
-🇮🇶 Based in Iraq | 🌍 Aiming for the German job market
+
 
 ---
 
 ## 📬 Contact
 
 If you'd like to collaborate or give feedback, open an issue or contact me on LinkedIn.
+biomedical-wasan or on E-mail wasanqusayhasan@gmail.com
 
 ---
 
