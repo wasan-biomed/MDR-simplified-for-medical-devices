@@ -119,6 +119,24 @@ All must comply with MDR Articles 11–16
 - **ISO 10993** – Biocompatibility (for pads/blankets)
 
 ---
+### Patient Warming System – Image 1
+![Patient Warming 1](../assets/images/patient-warming-system-1.jpg)
+
+---
+
+### Patient Warming System – Image 2
+![Patient Warming 2](../assets/images/patient-warming-system-2.jpg)
+
+---
+
+### Patient Warming System – Image 3
+![Patient Warming 3](../assets/images/patient-warming-system-3.jpg)
+
+---
+
+### Patient Warming System – Image 4
+![Patient Warming 4](../assets/images/patient-warming-system-4.jpg)
+
 
 ##  Summary
 
