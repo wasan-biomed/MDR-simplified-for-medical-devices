@@ -119,6 +119,24 @@ Each must comply with MDR Articles 11–16
 - **IEC 62366** – Usability engineering  
 
 ---
+### Operating Room Table – Image 1
+![OR Table 1](../assets/images/or-table-1.jpg)
+
+---
+
+### Operating Room Table – Image 2
+![OR Table 2](../assets/images/or-table-2.jpg)
+
+---
+
+### Operating Room Table – Image 3
+![OR Table 3](../assets/images/or-table-3.jpg)
+
+---
+
+### Operating Room Table – Image 4
+![OR Table 4](../assets/images/or-table-4.jpg)
+
 
 ##  Summary
 
