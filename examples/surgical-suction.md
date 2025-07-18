@@ -115,6 +115,25 @@ Each must meet MDR Articles 11–16 responsibilities.
 - **IEC 62366** – Usability engineering
 
 ---
+### Surgical Suction – Image 1
+![Surgical Suction 1](../assets/images/suction-1.jpg)
+
+---
+
+### Surgical Suction – Image 2
+![Surgical Suction 2](../assets/images/suction-2.jpg)
+
+---
+
+### Surgical Suction – Image 3
+![Surgical Suction 3](../assets/images/suction-3.jpg)
+
+---
+
+### Surgical Suction – Image 4
+![Surgical Suction 4](../assets/images/suction-4.jpg)
+
+---
 
 ##  Summary
 
