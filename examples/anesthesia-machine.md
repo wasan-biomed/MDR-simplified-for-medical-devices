@@ -120,18 +120,10 @@ All must comply with MDR Articles 11–16.
 - **ISO 10993** – Biocompatibility (patient circuit)
 
 ---
-### Front View
-![Front View](assets/images/anesthesia_machine_front_view.jpg)
-
-### Side Panel
-![Side Panel](assets/images/anesthesia_machine_side_panel.jpg)
-
-### Wheels and Controls
-![Wheels and Controls](assets/images/anesthesia_machine_wheels_and_controls.jpg)
-
-### With Monitor
-![With Monitor](assets/images/anesthesia_machine_with_monitor.jpg)
-
+![Front View](assets/images/anesthesia_machine_front_view.JPG)
+![Side Panel](assets/images/anesthesia_machine_side_panel.JPG)
+![Wheels and Controls](assets/images/anesthesia_machine_wheels_and_controls.JPG)
+![With Monitor](assets/images/anesthesia_machine_with_monitor.JPG)
 
 
 
