@@ -2,6 +2,7 @@
 
 This document explains how to apply the European Medical Device Regulation (MDR 2017/745) to an **Electrosurgical Unit (ESU)**. Designed for biomedical engineers and regulatory learners.
 
+
 ---
 
 ##  1. Device Description
