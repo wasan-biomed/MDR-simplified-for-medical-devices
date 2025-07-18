@@ -124,6 +124,25 @@ All must comply with MDR Articles 11–16
 - **ISO 10993** – Biocompatibility (contact surfaces)
 
 ---
+### Fluoroscopy System – Image 1
+![Fluoroscopy 1](../assets/images/fluoroscopy-1.jpg)
+
+---
+
+### Fluoroscopy System – Image 2
+![Fluoroscopy 2](../assets/images/fluoroscopy-2.jpg)
+
+---
+
+### Fluoroscopy System – Image 3
+![Fluoroscopy 3](../assets/images/fluoroscopy-3.jpg)
+
+---
+
+### Fluoroscopy System – Image 4
+![Fluoroscopy 4](../assets/images/fluoroscopy-4.jpg)
+
+
 
 ##  Summary
 
