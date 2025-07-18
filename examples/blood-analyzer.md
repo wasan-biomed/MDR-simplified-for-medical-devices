@@ -121,6 +121,25 @@ Each must fulfill MDR Articles 11–16.
 - **IVD-specific standards** – if covered by IVDR
 
 ---
+### Blood Analyzer – Image 1
+![Blood Analyzer 1](../assets/images/blood-analyzer-1.jpg)
+
+---
+
+### Blood Analyzer – Image 2
+![Blood Analyzer 2](../assets/images/blood-analyzer-2.jpg)
+
+---
+
+### Blood Analyzer – Image 3
+![Blood Analyzer 3](../assets/images/blood-analyzer-3.jpg)
+
+---
+
+### Blood Analyzer – Image 4
+![Blood Analyzer 4](../assets/images/blood-analyzer-4.jpg)
+
+
 
 ##  Summary
 
