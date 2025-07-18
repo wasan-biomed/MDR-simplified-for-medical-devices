@@ -112,6 +112,24 @@ Each must meet their obligations (Articles 11–16)
 - **IEC 62366** – Usability engineering
 
 ---
+### Infusion Pump – Image 1
+![Infusion Pump 1](../assets/images/infusion-pump-1.jpg)
+
+---
+
+### Infusion Pump – Image 2
+![Infusion Pump 2](../assets/images/infusion-pump-2.jpg)
+
+---
+
+### Infusion Pump – Image 3
+![Infusion Pump 3](../assets/images/infusion-pump-3.jpg)
+
+---
+
+### Infusion Pump – Image 4
+![Infusion Pump 4](../assets/images/infusion-pump-4.jpg)
+
 
 ##  Summary
 
