@@ -113,6 +113,25 @@ Ensure each actor fulfills MDR responsibilities (Articles 11–16).
 - **ISO 14155** – Clinical Investigations (if needed)
 
 ---
+### ECG Machine – Image 1
+![ECG Machine 1](../assets/images/ecg-machine-1.jpg)
+
+---
+
+### ECG Machine – Image 2
+![ECG Machine 2](../assets/images/ecg-machine-2.jpg)
+
+---
+
+### ECG Machine – Image 3
+![ECG Machine 3](../assets/images/ecg-machine-3.jpg)
+
+---
+
+### ECG Machine – Image 4
+![ECG Machine 4](../assets/images/ecg-machine-4.jpg)
+
+---
 
 ##  Summary
 
