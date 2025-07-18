@@ -113,23 +113,19 @@ Each actor must comply with MDR Articles 11–16.
 
 ---
 
-## 📷 Pulse Oximeter Device Images
+## Pulse Oximeter Images
 
 ### Figure 1
-![Pulse Oximeter 1](../assets/images/pulse_oximeter/pulse_oximeter_fingertip_display.jpg)  
-*Pulse oximeter on fingertip showing oxygen saturation and heart rate.*
+![Pulse Oximeter 1](../assets/images/pulse_oximeter/pulse_oximeter_fingertip_display.jpg)
 
 ### Figure 2
-![Pulse Oximeter 2](../assets/images/pulse_oximeter/pulse_oximeter_patient_monitor_view.jpg)  
-*Pulse oximeter connected to patient monitor.*
+![Pulse Oximeter 2](../assets/images/pulse_oximeter/pulse_oximeter_patient_monitor_view.jpg)
 
 ### Figure 3
-![Pulse Oximeter 3](../assets/images/pulse_oximeter/pulse_oximeter_led_screen_reading.jpg)  
-*Close-up of LED screen showing SpO₂ and pulse rate.*
+![Pulse Oximeter 3](../assets/images/pulse_oximeter/pulse_oximeter_led_screen_reading.jpg)
 
 ### Figure 4
-![Pulse Oximeter 4](../assets/images/pulse_oximeter/pulse_oximeter_on_hand.jpg)  
-*Portable pulse oximeter placed on patient’s hand.*
+![Pulse Oximeter 4](../assets/images/pulse_oximeter/pulse_oximeter_on_hand.jpg)
 
 ---
 
