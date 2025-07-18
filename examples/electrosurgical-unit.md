@@ -123,6 +123,26 @@ All must comply with MDR Articles 11–16.
 - **IEC 62304** – Software lifecycle (if applicable)
 
 ---
+### Electrosurgical Unit – Image 1
+![Electrosurgical Unit 1](../assets/images/electrosurgical-unit-1.jpg)
+
+---
+
+### Electrosurgical Unit – Image 2
+![Electrosurgical Unit 2](../assets/images/electrosurgical-unit-2.jpg)
+
+---
+
+### Electrosurgical Unit – Image 3
+![Electrosurgical Unit 3](../assets/images/electrosurgical-unit-3.jpg)
+
+---
+
+### Electrosurgical Unit – Image 4
+![Electrosurgical Unit 4](../assets/images/electrosurgical-unit-4.jpg)
+
+
+
 
 ##  Summary
 
