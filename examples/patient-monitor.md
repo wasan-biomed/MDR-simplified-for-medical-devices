@@ -123,6 +123,25 @@ All must fulfill their roles per MDR Articles 11–16.
 - **ISO 10993** – Biocompatibility
 
 ---
+### Patient Monitor – Image 1
+![Patient Monitor 1](../assets/images/patient-monitor-1.jpg)
+
+---
+
+### Patient Monitor – Image 2
+![Patient Monitor 2](../assets/images/patient-monitor-2.jpg)
+
+---
+
+### Patient Monitor – Image 3
+![Patient Monitor 3](../assets/images/patient-monitor-3.jpg)
+
+---
+
+### Patient Monitor – Image 4
+![Patient Monitor 4](../assets/images/patient-monitor-4.jpg)
+
+
 
 ##  Summary
 
