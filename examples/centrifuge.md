@@ -121,6 +121,10 @@ All must meet MDR obligations (Articles 11–16)
 - **ISO 10993** – Biocompatibility (if tubes in contact with re-injected fluids)
 
 ---
+### Centrifuge – Image 1
+![Centrifuge 1](../assets/images/centrifuge-1.jpg)
+
+---
 
 ##  Summary
 
