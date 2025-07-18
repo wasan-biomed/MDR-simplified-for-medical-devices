@@ -102,6 +102,26 @@ Each operator has specific MDR obligations.
 - EU Blue Guide on product rules
 
 ---
+### Blood Pressure Monitor – Image 1
+![Blood Pressure Monitor 1](../assets/images/blood-pressure-monitor-1.jpg)
+
+---
+
+### Blood Pressure Monitor – Image 2
+![Blood Pressure Monitor 2](../assets/images/blood-pressure-monitor-2.jpg)
+
+---
+
+### Blood Pressure Monitor – Smart Version
+![Smart BP Monitor](../assets/images/blood-pressure-monitor-smart.jpg)
+
+---
+
+### Blood Pressure Monitor – Image 4
+![Blood Pressure Monitor 4](../assets/images/blood-pressure-monitor-4.jpg)
+
+---
+
 
 ##  Summary
 
