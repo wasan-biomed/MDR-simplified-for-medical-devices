@@ -121,6 +121,25 @@ Each must fulfill MDR obligations (Articles 11–16)
 - **AHA/ERC clinical performance guidelines**
 
 ---
+### Defibrillator – Image 1
+![Defibrillator 1](../assets/images/defibrillator-1.jpg)
+
+---
+
+### Defibrillator – Image 2
+![Defibrillator 2](../assets/images/defibrillator-2.jpg)
+
+---
+
+### Defibrillator – Image 3
+![Defibrillator 3](../assets/images/defibrillator-3.jpg)
+
+---
+
+### Defibrillator – Image 4
+![Defibrillator 4](../assets/images/defibrillator-4.jpg)
+
+---
 
 ##  Summary
 
